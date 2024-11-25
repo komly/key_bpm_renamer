@@ -1,0 +1,31 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.tar.gz
+*.zip
+
+# Python virtual environment
+venv/
+env/
+*.egg-info/
+
+# IDE or Editor settings
+.vscode/
+.idea/
+
+# Demucs model files
+temp_demucs/
+
+# Audio files that should not be tracked (Optional: depends on your project)
+*.wav
+*.mp3
+*.flac
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
