@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="key_bpm_renamer",  # The name of your package
-    version="0.1.0",  # The version of your package
+    version="0.1.1",  # The version of your package
     packages=find_packages(),
     install_requires=[
         "eyed3", "tinytag", "pydub", "essentia",  # add any dependencies
